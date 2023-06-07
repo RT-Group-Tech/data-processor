@@ -1,0 +1,16 @@
+{
+    "name": "rtgroup/data-processor",
+    "description": "Composant permettant d'organiser, structurer et manipuler les masses des données BIG DATA.",
+    "autoload": {
+        "psr-4": {
+            "Rtgroup\\DataProcessor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chris Tenday",
+            "email": "ctenday@gmail.com"
+        }
+    ],
+    "require": {}
+}
